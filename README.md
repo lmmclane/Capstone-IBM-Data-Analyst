@@ -16,7 +16,7 @@ Objective: Build a dashboard using Google Looker Studio to present the data intu
 Module 6: Storytelling Presentation
 Objective: Craft a compelling narrative that communicates my analysis findings clearly and effectively.
 Evaluation
-Throughout the project, my progress will be evaluated through quizzes in each module and your final presentation.
+Throughout the project, my progress will be evaluated through quizzes in each module and my final presentation.
 
 
 
